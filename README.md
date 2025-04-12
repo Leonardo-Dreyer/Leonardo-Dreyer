@@ -6,7 +6,7 @@ Sou desenvolvedor desde março de 2022. Atuo majoritariamente no backend, mas te
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ---
-<a href="https://www.linkedin.com/in/leonardo-dreyer99/" target="_blank">
+<a href="https://www.linkedin.com/in/leonardo-dreyer99/" target="blank">
   <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
